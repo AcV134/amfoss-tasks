@@ -1,6 +1,4 @@
-Task 0
+# amFOSS Task
 
- Install Ubuntu 20.04 [Desktop]
- 
- i had already installed ubundu in virtual box in semester 1 due to curiculum reguirments.
+Task submission for amfoss 2020 by ANIRUDH C VINAYAN of CSE 24.
  
