@@ -1,6 +1,7 @@
 <h1>Task-9</h1>
 <h2>Spammer_Spaghetti</h2>
 
+This was a fun task for me,but not for my friend ;)
 After some googling i found out it was much easier to use class id instead.So,my input was<br>
 
     document.getElementsByClassName('composer_rich_textarea')[0].innerHTML=message;
